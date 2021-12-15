@@ -21,6 +21,7 @@ Tahmin sonuçlarından önce bir açıklama yapmalıyım. Bu çalışmada kullan
 - 80 = squirrel
 
 Test veri kümesi ile yapılan tahminlere göre elde edilen confusion matrix:
+
 ![image](https://user-images.githubusercontent.com/46621453/146281325-0ad559ce-9a45-4e52-8e32-5eb4b046dc30.png)
 
 
@@ -33,37 +34,47 @@ Test veri kümesi ile yapılan tahminlere göre elde edilen confusion matrix:
 
 ### Cloud Sınıfı için Sonuçlar
 Tahmin edilecek görüntü:
+
 ![image](https://user-images.githubusercontent.com/46621453/146280880-3e530c93-ac44-40c8-a4d2-22cefc54ae09.png)
 
 Tahmin sonucu:
+
 ![image](https://user-images.githubusercontent.com/46621453/146280936-f013e295-8ac5-4a99-8261-9b2174044246.png)
 
 ### Cockroach  Sınıfı için Sonuçlar
 Tahmin edilecek görüntü:
+
 ![image](https://user-images.githubusercontent.com/46621453/146280966-9501d94b-e81c-4f8e-a3a5-a8e93aa062d2.png)
 
 Tahmin sonucu:
+
 ![image](https://user-images.githubusercontent.com/46621453/146280990-e565dc36-ffc9-447e-99dc-f5bbc5070f02.png)
 
 ### House Sınıfı için Sonuçlar
 Tahmin edilecek görüntü:
+
 ![image](https://user-images.githubusercontent.com/46621453/146281029-5bde26ca-39a4-4b86-b96e-7af40a5f1044.png)
 
 Tahmin sonucu:
+
 ![image](https://user-images.githubusercontent.com/46621453/146281040-d3db5150-f9d1-48a7-ad54-02c8759d2d4c.png)
 
 ### Lamp Sınıfı için Sonuçlar
 Tahmin edilecek görüntü:
+
 ![image](https://user-images.githubusercontent.com/46621453/146281079-9030d289-098e-4c71-be76-dac9b74dca9d.png)
 
 Tahmin sonucu:
+
 ![image](https://user-images.githubusercontent.com/46621453/146281082-3f4494ac-b61c-486e-b8a8-358753e70e6d.png)
 
 ### Squirrel Sınıfı için Sonuçlar
 Tahmin edilecek görüntü:
+
 ![image](https://user-images.githubusercontent.com/46621453/146281156-299c28f9-3d61-464f-a64b-4278dc0b3896.png)
 
 Tahmin sonucu:
+
 ![image](https://user-images.githubusercontent.com/46621453/146281164-2fff4374-fc50-4cab-9683-907d5e522a75.png)
 
 
